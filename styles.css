@@ -22,7 +22,7 @@ body {
   display: grid;
   place-items: center;
   font-family: "Space Grotesk", "Avenir Next", "Segoe UI", sans-serif;
-  background: #000;
+  background: #0b5fff;
 }
 
 .app {
